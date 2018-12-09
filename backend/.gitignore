@@ -1,0 +1,4 @@
+chromedriver.exe
+*.mag
+*.exe
+__pycache__/
